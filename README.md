@@ -27,7 +27,7 @@ Still working and improve my skills in:
 * SQL
 * Dart/Flutter
 
-I learned by myself with Udemy, Amazon FutureIngineer even Mimo on mobile.
+I learned by myself with Udemy, Amazon FutureIngineer, Sololearn even Mimo on mobile.
 
 Formed in App Developement by [Technipixl](https://github.com/technipixl) and then in Web Developement by [Sirius School](https://github.com/sirius-school).
 
