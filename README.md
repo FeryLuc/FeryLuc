@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome to my Github profile ! :panda_face:
 
 <!--
 **FeryLuc/FeryLuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I'm a junior Web Developper :baby:
+
+Still working and improve my skills in:
+
+* HTML
+* CSS
+* JS
+* Kotlin
+* Swift
+* PHP
+* MySQL
+* Dart/Flutter
+
+I learned by myself with Sololearn and Udemy even Mimo on mobile.
+
+Formed in App Developement by [Technipixl](https://github.com/technipixl) and then in Web Developement by [Sirius School](https://github.com/sirius-school).
