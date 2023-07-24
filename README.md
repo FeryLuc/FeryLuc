@@ -24,9 +24,9 @@ Still working and improve my skills in:
 * Kotlin
 * Swift
 * PHP
-* MySQL
+* SQL
 * Dart/Flutter
 
-I learned by myself with Sololearn and Udemy even Mimo on mobile.
+I learned by myself with [Sololearn](https://www.sololearn.com/profile/27474918) and Udemy even Mimo on mobile.
 
 Formed in App Developement by [Technipixl](https://github.com/technipixl) and then in Web Developement by [Sirius School](https://github.com/sirius-school).
