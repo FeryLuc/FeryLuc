@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 Still working and improve my skills in:
 
 * HTML
-* CSS
-* JS
+* CSS/Tailwind
+* JS Vanilla/Vue/React
+* PHP/Laravel
+* SQL
 * Kotlin
 * Swift
-* PHP
-* SQL
 * Dart/Flutter
 
 I learned by myself with Udemy, Amazon FutureIngineer, Sololearn, W3 School even Mimo on mobile.
 
-Formed in App Developement by [Technipixl](https://github.com/technipixl) and then in Web Developement by [Sirius School](https://github.com/sirius-school).
+Formed in App Developement by [Technipixl](https://github.com/technipixl), then in Web Developement by [Sirius School](https://github.com/sirius-school) and [EAFC FLERON](https://www.enseignement-pour-adultes.be/formation/bes-webdeveloper/).
 
 See my profiles:
 
